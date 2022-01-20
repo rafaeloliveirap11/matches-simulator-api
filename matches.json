@@ -14,8 +14,8 @@
       "nome": "Argentina",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
-     }
-    },
+    }
+  },
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
@@ -26,14 +26,14 @@
       "nome": "Uruguay",
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
-    }
-  },
-  "visitante": {
+    },
+     "visitante": {
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-     }
-{
+    }
+  },
+  {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
@@ -43,9 +43,8 @@
       "nome": "Brasil",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    }
-  },
-  "visitante": {
+    },
+     "visitante": {
       "nome": "Colombia",
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
